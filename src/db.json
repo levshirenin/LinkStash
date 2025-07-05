@@ -1,0 +1,345 @@
+{
+  "Редакторы кода": [
+    {
+      "url": "https://code.visualstudio.com/",
+      "title": "VS Code",
+      "desc": "Мощный редактор кода с функциями IDE 💻"
+    },
+    {
+      "url": "https://notepad-plus-plus.org/",
+      "title": "Notepad ++",
+      "desc": "Легендарный текстовый редактор 🧾"
+    }
+  ],
+  "VPN": [
+    {
+      "url": "https://amnezia.org/ru",
+      "title": "Amnezia VPN",
+      "desc": "Защита трафика и анонимность 🔒"
+    },
+    {
+      "url": "https://warp.llimonix.pw/",
+      "title": "Cloudflare WARP",
+      "desc": "Генератор бесплатных конфигов для Amnezia VPN ⚡"
+    },
+    {
+      "url": "https://browser.lol/",
+      "title": "Browser.lol",
+      "desc": "Виртуальный браузер для анонимного сёрфинга 🌐"
+    },
+    {
+      "url": "https://terminator.aeza.net/en/",
+      "title": "Terminator.aeza",
+      "desc": "Временная виртуальная машина (15 минут) ⏳"
+    }
+  ],
+  "Обход замедления YouTube": [
+    {
+      "url": "https://developers.cloudflare.com/warp-client/get-started/",
+      "title": "WARP",
+      "desc": "Быстрый DNS от Cloudflare 🚀"
+    },
+    {
+      "url": "https://github.com/bol-van/zapret",
+      "title": "zapret",
+      "desc": "Обход DPI-блокировок 🛡️"
+    },
+    {
+      "url": "https://github.com/hufrea/byedpi",
+      "title": "byedpi",
+      "desc": "Утилита для обхода интернет-ограничений ⚙️"
+    },
+    {
+      "url": "https://github.com/Anonym-tsk/nfqws-keenetic",
+      "title": "nfqws",
+      "desc": "Обход DPI для роутеров Keenetic 📶"
+    }
+  ],
+  "Поисковики": [
+    {
+      "url": "https://www.google.com/",
+      "title": "Google",
+      "desc": "Самый популярный поисковик 🌎"
+    },
+    {
+      "url": "https://duckduckgo.com/",
+      "title": "DuckDuckGo",
+      "desc": "Поиск без отслеживания 🦆"
+    },
+    {
+      "url": "https://www.perplexity.ai/",
+      "title": "Perplexity",
+      "desc": "ИИ-ассистент для поиска ответов 🤖"
+    },
+    {
+      "url": "https://searchtor.to/",
+      "title": "Searchtor",
+      "desc": "Поиск по торрент-трекерам ⚡"
+    },
+    {
+      "url": "http://tragtorr.in/",
+      "title": "Tragtorr",
+      "desc": "Альтернативный поиск торрентов 🧲"
+    }
+  ],
+  "Аренда VPS": [
+    {
+      "url": "https://aeza.net/ru",
+      "title": "Аеза",
+      "desc": "Премиум VPS с высокой производительец 💎"
+    },
+    {
+      "url": "https://beget.com/ru",
+      "title": "Beget",
+      "desc": "Надёжный хостинг по доступной цене 👍"
+    }
+  ],
+  "Временная почта": [
+    {
+      "url": "https://www.emailnator.com/",
+      "title": "Emailnator",
+      "desc": "Временные Gmail-адреса 📧"
+    },
+    {
+      "url": "https://10minemail.com/",
+      "title": "10minemail",
+      "desc": "Одноразовая почта на 10 минут ⌛"
+    },
+    {
+      "url": "https://temp-mail.org/en/",
+      "title": "Temp-mail",
+      "desc": "Анонимные временные почтовые ящики ✉️"
+    }
+  ],
+  "ИИ": [
+    {
+      "url": "https://chatgpt.com/",
+      "title": "Сhatgpt",
+      "desc": "Популярный ИИ-ассистент от OpenAI 🧠"
+    },
+    {
+      "url": "https://chat.deepseek.com/",
+      "title": "Deepseek",
+      "desc": "Китайская нейросеть для разработчиков 🇨🇳"
+    },
+    {
+      "url": "https://chat.qwen.ai/",
+      "title": "Qwen",
+      "desc": "Альтернативный ИИ-помощник 🤖"
+    },
+    {
+      "url": "https://lmstudio.ai/",
+      "title": "LMStudio",
+      "desc": "Локальные ИИ-модели для ПК 💻"
+    }
+  ],
+  "Просмотр фильмов": [
+    {
+      "url": "http://lampa.mx/",
+      "title": "Lampa",
+      "desc": "Приложение для фильмов и сериалов 🎬"
+    },
+    {
+      "url": "https://w1.zona.pub/",
+      "title": "Zona",
+      "desc": "Торрент-клиент с медиаплеером 📀"
+    }
+  ],
+  "Создание загрузочных USB": [
+    {
+      "url": "https://www.ventoy.net/",
+      "title": "Ventoy",
+      "desc": "Мультизагрузочные USB-накопители 💾"
+    },
+    {
+      "url": "https://rufus.ie/ru/",
+      "title": "Rufus",
+      "desc": "Создание загрузочных флешек 🛠️"
+    },
+    {
+      "url": "https://etcher.balena.io/",
+      "title": "EtcherBalena",
+      "desc": "Простая запись образов на USB 🔥"
+    }
+  ],
+  "ОС Windows": [
+    {
+      "url": "https://massgrave.dev/windows_7_links",
+      "title": "Windows 7",
+      "desc": "Официальные образы системы 🪟"
+    },
+    {
+      "url": "https://massgrave.dev/windows_10_links",
+      "title": "Windows 10",
+      "desc": "Официальные дистрибутивы 🖥️"
+    },
+    {
+      "url": "https://massgrave.dev/windows_11_links",
+      "title": "Windows 11",
+      "desc": "Оригинальные установочные файлы 💿"
+    },
+    {
+      "url": "https://files.rg-adguard.net/",
+      "title": "rg-adguard",
+      "desc": "Все официальные образы Windows 📦"
+    },
+    {
+      "url": "https://sergeistrelec.name/winpe_10_8/",
+      "title": "SergeiStrelec",
+      "desc": "Аварийная среда восстановления 🛠️"
+    },
+    {
+      "url": "https://massgrave.dev/",
+      "title": "Microsoft Activation Scripts (MAS)",
+      "desc": "Активация Windows и Office 🔑"
+    }
+  ],
+  "Repacks": [
+    {
+      "url": "https://repack.me/",
+      "title": "Repack.me",
+      "desc": "Популярный портал с репаками 🎮"
+    },
+    {
+      "url": "https://rsload.net/",
+      "title": "Rsload",
+      "desc": "Софт и игры в сжатых сборках 💽"
+    }
+  ],
+  "MS Office": [
+    {
+      "url": "https://massgrave.dev/office_msi_links",
+      "title": "MS Office",
+      "desc": "Офисные пакеты 2007-2016 📊"
+    },
+    {
+      "url": "https://gravesoft.dev/office_c2r_links",
+      "title": "MS Office",
+      "desc": "Офисные приложения 2013-365 📝"
+    }
+  ],
+  "Разные Web приложения": [
+    {
+      "url": "https://123apps.com/ru/",
+      "title": "123apps",
+      "desc": "Онлайн-конвертеры медиафайлов 🎵"
+    },
+    {
+      "url": "https://cobalt.tools/",
+      "title": "Cobalt",
+      "desc": "Скачивание контента с YouTube ⬇️"
+    },
+    {
+      "url": "https://mokky.dev/",
+      "title": "Mokky",
+      "desc": "Генератор тестовых REST API 🧪"
+    }
+  ],
+  "CNC": [
+    {
+      "url": "https://lasergrbl.com/",
+      "title": "LaserGRBL",
+      "desc": "Управление лазерными станками ✨"
+    },
+    {
+      "url": "https://lightburnsoftware.com/",
+      "title": "LightBurn",
+      "desc": "Профессиональное ПО для лазерной резки 🔥"
+    }
+  ],
+  "САПР": [
+    {
+      "url": "https://www.autodesk.com/products/fusion-360/",
+      "title": "Fusion-360",
+      "desc": "CAD/CAM-платформа (недоступна в РФ) ⚠️"
+    },
+    {
+      "url": "https://kompas.ru/",
+      "title": "Kompas3D",
+      "desc": "Российская САПР для проектирования 📐"
+    }
+  ],
+  "Онлайн-среды разработки": [
+    {
+      "url": "https://replit.com/",
+      "title": "Replit",
+      "desc": "Облачная среда для программирования ☁️"
+    }
+  ],
+  "Среды разработки (IDE)": [
+    {
+      "url": "https://visualstudio.microsoft.com/ru/",
+      "title": "VisualStudio",
+      "desc": "Профессиональная IDE для разработки 💼"
+    },
+    {
+      "url": "https://www.arduino.cc/en/software/",
+      "title": "ArduinoIDE",
+      "desc": "Среда для программирования микроконтроллеров 🔌"
+    },
+    {
+      "url": "https://www.jetbrains.com/",
+      "title": "JetBrains",
+      "desc": "IDE для разных языков программирования 🧩"
+    },
+    {
+      "url": "https://3.jetbra.in/",
+      "title": "Jetbra",
+      "desc": "Активация продуктов JetBrains 🗝️"
+    }
+  ],
+  "Виртуализация": [
+    {
+      "url": "https://www.docker.com/",
+      "title": "Docker",
+      "desc": "Платформа контейнеризации 🐳"
+    },
+    {
+      "url": "https://www.virtualbox.org/",
+      "title": "VirtualBox",
+      "desc": "Виртуализация ОС 🖥️"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-hyper-v?tabs=powershell&pivots=windows",
+      "title": "Hyper-V",
+      "desc": "Встроенная виртуализация в Windows 🪟"
+    }
+  ],
+  "Полезное ПО": [
+    {
+      "url": "https://git-scm.com/",
+      "title": "Git",
+      "desc": "Система контроля версий кода 📜"
+    },
+    {
+      "url": "https://www.videolan.org/vlc/",
+      "title": "VLC",
+      "desc": "Универсальный медиаплеер ▶️"
+    },
+    {
+      "url": "https://ffmpeg.org/",
+      "title": "ffmpeg",
+      "desc": "Обработка аудио и видео 🎚️"
+    },
+    {
+      "url": "https://mega.nz/",
+      "title": "Mega",
+      "desc": "Облачное хранилище с шифрованием ☁️"
+    },
+    {
+      "url": "https://inkscape.org/",
+      "title": "Inkscape",
+      "desc": "Редактор векторной графики 🎨"
+    },
+    {
+      "url": "https://www.paragon-software.com/free/pm-express/",
+      "title": "Paragon Partition Manager",
+      "desc": "Управление разделами диска 💾"
+    },
+    {
+      "url": "https://learn.microsoft.com/ru-ru/windows/powertoys/",
+      "title": "PowerToys",
+      "desc": "Набор инструментов для Windows ⚙️"
+    }
+  ]
+}
